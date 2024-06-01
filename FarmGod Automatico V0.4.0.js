@@ -134,7 +134,7 @@
         }
         observer.disconnect(); // Disconnect the MutationObserver
 
-        const reloadTime = getRandomNumber(720000, 900000); // 7 a 10 minutos em milissegundos
+        const reloadTime = getRandomNumber(480000, 600000); // 8 a 10 minutos em milissegundos
         console.log('Reloading page after ' + reloadTime / 60000 + ' minutes');
         setTimeout(() => {
             location.reload();
