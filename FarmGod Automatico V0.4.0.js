@@ -5,13 +5,12 @@
 // @description  Farm Automático
 // @author       phxy
 // @match        https://*/*screen=am_farm*
-// @require      https://code.jquery.com/jquery-2.2.4.min.js
 // @downloadURL  https://raw.githubusercontent.com/kleberpcp/scriptstw/master/FarmGod%20Automatico%20V0.4.0.js?token=GHSAT0AAAAAACTBMW3BFEF4YSC5EG4D26S2ZS2RP7Q
 // @updateURL    https://github.com/kleberpcp/scriptstw/blob/master/FarmGod%20Automatico%20V0.4.0.js
 // @grant        none
 // ==/UserScript==
 
-(function() {
+(function() { /update
     'use strict';
 
     // Traz a aba para a frente
