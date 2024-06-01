@@ -10,10 +10,10 @@
 // @grant        none
 // ==/UserScript==
 
-(function() { /update
+(function() {
     'use strict';
 
-    // Traz a aba para a frente
+    // Traz a aba para a frente #1
     window.focus();
 
     // Verifica se o elemento #botprotection_quest está presente
