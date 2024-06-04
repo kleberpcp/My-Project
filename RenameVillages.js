@@ -105,23 +105,3 @@ var script={scriptname:'name villages',version:8.48,author:'Nicholas Toby',edito
 else{UI.InfoMessage('Use this on one of the village overviews.',5000,'error');}
 
 }
-/*
-     FILE ARCHIVED ON 20:16:50 Apr 13, 2020 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:58:55 Jun 04, 2024.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 1.108
-  exclusion.robots: 0.153
-  exclusion.robots.policy: 0.134
-  esindex: 0.013
-  cdx.remote: 24.689
-  LoadShardBlock: 719.888 (3)
-  PetaboxLoader3.datanode: 916.526 (4)
-  PetaboxLoader3.resolve: 259.881 (2)
-  load_resource: 483.09
-*/
